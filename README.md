@@ -1,6 +1,6 @@
 # flutter_toast
 
-A new Flutter plugin.
+A new Flutter plugin
 
 ## Getting Started
 
